@@ -6,12 +6,12 @@ public final class essental_SMP extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
+        getLogger().info("Essential SMP Plugin is starting...");
 
     }
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
+        getLogger().info("Essential SMP Plugin is stopping...");
     }
 }
