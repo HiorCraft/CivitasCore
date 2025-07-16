@@ -1,0 +1,4 @@
+name: Essental_SMP
+version: '1.0'
+main: de.HiorCraft.smp.essental_SMP
+api-version: '1.21'
