@@ -11,7 +11,7 @@ import org.bukkit.event.player.PlayerMoveEvent;
 import org.bukkit.event.player.PlayerToggleFlightEvent;
 import org.bukkit.util.Vector;
 
-public class double_jump implements Listener {
+public class DoubleJump implements Listener {
     @EventHandler
     public void onPlayerTouch(PlayerMoveEvent event) {
         Player player = event.getPlayer();
@@ -56,7 +56,6 @@ public class double_jump implements Listener {
         }
     }
 }
-
 
 
 

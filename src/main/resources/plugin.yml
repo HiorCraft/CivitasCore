@@ -1,4 +1,10 @@
 name: Essental_SMP
 version: '1.0'
-main: de.HiorCraft.smp.essental_SMP
+main: de.HiorCraft.smp.main.essental_SMP
 api-version: '1.21'
+
+
+commands:
+  credits:
+    description: Displays the credits for the plugin.
+    aliases:

@@ -1,14 +1,18 @@
-package de.HiorCraft.smp;
+package de.HiorCraft.smp.main;
+
 
 import org.bukkit.plugin.java.JavaPlugin;
+import de.HiorCraft.smp.duble_jump.DoubleJump;
 
 public final class essental_SMP extends JavaPlugin {
 
     @Override
     public void onEnable() {
         getLogger().info("Essential SMP Plugin is starting...");
-        getServer().getPluginManager().registerEvents(new de.HiorCraft.smp.duble_jump.double_jump(), this);
-        getLogger().info("Essential SMP Plugin is starting...");
+        getServer().getPluginManager().registerEvents(new DoubleJump(), this);
+        getCommand("credits").setExecutor(new de.HiorCraft.smp.commands.credits());
+
+
 
     }
 
