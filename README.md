@@ -1,8 +1,7 @@
 # Essental Plugin
 
 A lightweight Essental plugin.  
-This plugin is designed for lobbies and SMP Server, allowing players to play with others when they're bored.
-
+This plugin is designed for lobbies and SMP Server, For easy server management and fun.
 
 
 ---
