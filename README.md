@@ -1,16 +1,21 @@
-CivitasCore
+# Essental Plugin
 
-CivitasCore is a powerful and customizable plugin for Survival Multiplayer (SMP) Minecraft servers.
-It includes a variety of features, such as:
-	
-	 • Double Jump
-	
- 	 • Live Rank
-  
-  	 • and more
+A lightweight Essental plugin.  
+This plugin is designed for lobbies and SMP Server, allowing players to play with others when they're bored.
+
+
+
+---
+
+## Features
+
+- Double Jump.
+- Live Rank-
+- LuckPerms support.
+- and more-
+
+---
+
+# Info
 
 this is all still in the Early Access!
-
-
-
-  
