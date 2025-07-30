@@ -10,9 +10,9 @@ This plugin is designed for lobbies and SMP Server, allowing players to play wit
 ## Features
 
 - Double Jump.
-- Live Rank-
+- Live Rank.
 - LuckPerms support.
-- and more-
+- and more.
 
 ---
 
